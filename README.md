@@ -21,8 +21,8 @@ Your app is ready to be deployed!
 
 ## crop production
 
-![CROP!](public\cropproduction.png)
+![CROP!](public/cropproduction.png)
 
 ## Avrage crop yield
 
-![AVRAGE!](public\averagecrop.png)
+![AVRAGE!](public/averagecrop.png)
